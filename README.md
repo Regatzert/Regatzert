@@ -147,7 +147,7 @@ Actualmente enfocado en aprender y aplicar:
 
 <p align="left">
 
-<a href="www.linkedin.com/in/kevin-rosman-salazar-ruiz-627b99199">
+<a href="https://www.linkedin.com/in/kevin-rosman-salazar-ruiz-627b99199">
   <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Salazar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
